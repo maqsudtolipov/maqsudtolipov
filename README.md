@@ -1,4 +1,4 @@
-[![Maqsud's GitHub Banner](https://i.ibb.co/7W1NyJ4/rsz-gradienta-ketktqvj7bi-unsplash.jpg)](https://braydoncoyer.dev)
+![Maqsud's GitHub Banner](./rsz_gradienta-ketktqvj7bi-unsplash.jpg)
 <h1 align="center">Hi 👋, I'm Maqsud</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
