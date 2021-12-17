@@ -1,8 +1,7 @@
-![Maqsud's GitHub Banner](./rsz_gradienta-ketktqvj7bi-unsplash.jpg)
+![Maqsud's Github banner](https://user-images.githubusercontent.com/95850553/146602426-f9885401-257c-49a1-ac37-3c020091fc48.jpg)
+
 <h1 align="center">Hi 👋, I'm Maqsud</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-
-<p align="left"> <img src="https://i.ibb.co/0tXjSVC/max-kleinen-oh-Qinq-Tl-DE-unsplash-1-1.jpg" alt="maqsudtolipov" /> <img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /> </p>
 
 - 🔭 I’m currently working on **Freehand**
 
