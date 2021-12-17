@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maqsud</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maqsudtolipov&label=Profile%20views&color=0e75b6&style=flat" alt="maqsudtolipov" /> <img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /> </p>
+<p align="left"> <img src="https://i.ibb.co/0tXjSVC/max-kleinen-oh-Qinq-Tl-DE-unsplash-1-1.jpg" alt="maqsudtolipov" /> <img src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /> </p>
 
 - 🔭 I’m currently working on **Freehand**
 
