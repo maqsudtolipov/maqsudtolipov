@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/maqsudtolipov)
 
 
 <h3 align="left">Languages and Tools:</h3>
