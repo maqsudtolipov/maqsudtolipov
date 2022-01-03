@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **UI & UX**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at [maqsud.me](https://www.mawsud.me)
 
 - 💬 Ask me about **html, css, js**
 
