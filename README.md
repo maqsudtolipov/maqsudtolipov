@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Maqsud</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on **Freehand**
+- 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **responsive web design**
+- 🌱 I’m currently learning **advanced javascript**
 
-- 🤝 I’m looking for help with **UI & UX**
+- 🤝 I’m looking for help with **react**
 
 - 👨‍💻 All of my projects are available at [maqsud.me](https://www.mawsud.me)
 
-- 💬 Ask me about **html, css, js**
+- 💬 Ask me about **html, css, js and responsive web design**
 
 - 📫 How to reach me **maqsudtolipov9@gmail.com**
 
