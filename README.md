@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **react**
 
-- 👨‍💻 All of my projects are available at [maqsud.me](https://www.mawsud.me)
+- 👨‍💻 All of my projects are available at [maqsud.me](https://www.maqsud.me)
 
 - 💬 Ask me about **html, css, js and responsive web design**
 
