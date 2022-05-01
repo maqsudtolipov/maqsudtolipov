@@ -5,17 +5,15 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **advanced javascript**
+- 🌱 I’m currently learning **MongoDB and express**
 
-- 🤝 I’m looking for help with **react**
+- 🤝 I’m looking for help with **MongoDB**
 
 - 👨‍💻 All of my projects are available at [maqsud.me](https://www.maqsud.me)
 
 - 💬 Ask me about **html, css, js and responsive web design**
 
 - 📫 How to reach me **maqsudtolipov9@gmail.com**
-
-- ⚡ Fun fact **I love reading books**
 
 <h3 align="left">Connect with me:</h3>
 
