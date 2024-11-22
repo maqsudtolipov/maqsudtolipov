@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/4572367e-b112-4d8d-b86d-966721812e63)
+
+
 <h1 align="center">Hi 👋, I'm Maqsud</h1>
 <h3 align="center">A passionate full stack developer from Uzbeksitan</h3>
 
