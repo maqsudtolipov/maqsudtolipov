@@ -1,8 +1,4 @@
-![image](https://github.com/user-attachments/assets/4572367e-b112-4d8d-b86d-966721812e63)
-
-
-<h1 align="center">Hi 👋, I'm Maqsud</h1>
-<h3 align="center">A passionate full stack developer from Uzbeksitan</h3>
+![header](https://github.com/user-attachments/assets/733f7a1d-15af-4065-8774-28d458ec994c)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maqsudtolipov&label=Profile%20views&color=0e75b6&style=flat" alt="maqsudtolipov" /> </p>
 
