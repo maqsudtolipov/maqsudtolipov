@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [spotify-clone](https://github.com/maqsudtolipov/spotify-clone)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **📘 Typescript** and **🔓 OAuth2**
 
 - 👨‍💻 All of my projects are available at [https://maqsudtolipov.com/](https://maqsudtolipov.com/)
 
