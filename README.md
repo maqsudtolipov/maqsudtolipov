@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maqsudtolipov&label=Profile%20views&color=0e75b6&style=flat" alt="maqsudtolipov" /> </p>
 
-- 🔭 I’m currently working on [spotify-clone](https://github.com/maqsudtolipov/spotify-clone)
+- 🔭 I’m currently working on [Accessiblity Remote](https://github.com/maqsudtolipov/spotify-clone) and need your help.
 
 - 🌱 I’m currently learning **📘 Typescript**
 
 - 👨‍💻 All of my projects are available at [https://maqsudtolipov.com/](https://maqsudtolipov.com/)
-
-- 📝 I regularly write articles on [https://www.maqsudtolipov.com/blog](https://www.maqsudtolipov.com/blog)
 
 - 📫 How to reach me **maqsudtolipov9@gmail.com**
 
