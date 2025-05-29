@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maqsudtolipov&label=Profile%20views&color=0e75b6&style=flat" alt="maqsudtolipov" /> </p>
 
-- 🔭 I’m currently working on [Accessiblity Remote](https://github.com/maqsudtolipov/spotify-clone) and need your help.
+- 🔭 I’m currently working on [Accessiblity Remote](https://github.com/maqsudtolipov/accessibility-remote) and need your help.
 
 - 🌱 I’m currently learning **📘 Typescript**
 
