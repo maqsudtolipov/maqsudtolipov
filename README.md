@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maqsudtolipov&label=Profile views&color=0e75b6&style=flat" alt="maqsudtolipov" /> </p>
 
-- 🔭 I'm currently working on **project kiwi, soon to be announced**
+- 🔭 I'm currently working on **project leafmark, soon to be announced**
 
 - ⚡ Fun fact **silver brain**
 
